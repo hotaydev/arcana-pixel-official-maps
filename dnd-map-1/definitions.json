@@ -1,0 +1,1202 @@
+{
+  "config": {
+    "minZoom": 3,
+    "minNativeZoom": 3,
+    "maxZoom": 6,
+    "maxNativeZoom": 5,
+    "sizeChangeFactor": 1.5,
+    "bounds": {
+      "southWest": {
+        "lat": -224,
+        "lng": 256
+      },
+      "northEast": {
+        "lat": -32,
+        "lng": 0
+      }
+    },
+    "center": {
+      "lat": -130,
+      "lng": 132
+    }
+  },
+  "location_titles": [
+    {
+      "title": "Nôrdûr",
+      "lng": -50,
+      "lat": 185,
+      "size": 120
+    },
+    {
+      "title": "Vallengrand",
+      "lng": -130,
+      "lat": 70,
+      "size": 120
+    },
+    {
+      "title": "Ardoria",
+      "lng": -194,
+      "lat": 136,
+      "size": 120
+    },
+    {
+      "title": "Aidanmine",
+      "lng": -197,
+      "lat": 209,
+      "size": 120
+    },
+    {
+      "title": "Ashlah",
+      "lng": -97,
+      "lat": 123,
+      "size": 120
+    },
+    {
+      "title": "Mashari",
+      "lng": -68,
+      "lat": 23,
+      "size": 120
+    },
+    {
+      "title": "Ancemont",
+      "lng": -129,
+      "lat": 213,
+      "size": 120
+    },
+    {
+      "title": "Oyhork",
+      "lng": -139,
+      "lat": 118,
+      "size": 70
+    },
+    {
+      "title": "Império Orc",
+      "lng": -141,
+      "lat": 118,
+      "size": 30
+    },
+    {
+      "title": "Kratus",
+      "lng": -108,
+      "lat": 90,
+      "size": 70
+    },
+    {
+      "title": "A Antiga Cratera",
+      "lng": -110,
+      "lat": 90,
+      "size": 30
+    },
+    {
+      "title": "Inpolis",
+      "lng": -44,
+      "lat": 119,
+      "size": 70
+    },
+    {
+      "title": "Reinos Esquecidos",
+      "lng": -46,
+      "lat": 119,
+      "size": 30
+    },
+    {
+      "title": "Araikuéra",
+      "lng": -204,
+      "lat": 63,
+      "size": 70
+    },
+    {
+      "title": "Ninho de Dragões",
+      "lng": -206,
+      "lat": 63,
+      "size": 30
+    },
+    {
+      "title": "Eyrith",
+      "lng": -94,
+      "lat": 17,
+      "size": 70
+    },
+    {
+      "title": "Castelo Élfico",
+      "lng": -96,
+      "lat": 17,
+      "size": 30
+    },
+    {
+      "title": "Karistal",
+      "lng": -38,
+      "lat": 239,
+      "size": 70
+    },
+    {
+      "title": "O Castelo de Cristal",
+      "lng": -40,
+      "lat": 239,
+      "size": 30
+    },
+    {
+      "title": "Ganímedes",
+      "lng": -205,
+      "lat": 235,
+      "size": 70
+    },
+    {
+      "title": "Ilha dos Gigantes",
+      "lng": -207,
+      "lat": 235,
+      "size": 30
+    },
+    {
+      "title": "Ulrora",
+      "lng": -117,
+      "lat": 10,
+      "size": 50
+    },
+    {
+      "title": "A Floresta Rosa",
+      "lng": -119,
+      "lat": 10,
+      "size": 30
+    },
+    {
+      "title": "Mortásia",
+      "lng": -207,
+      "lat": 180,
+      "size": 70
+    },
+    {
+      "title": "Vilas Abandonadas",
+      "lng": -209,
+      "lat": 180,
+      "size": 30
+    },
+    {
+      "title": "Orverses",
+      "lng": -85,
+      "lat": 169,
+      "size": 50
+    },
+    {
+      "title": "A Cidade do Mar",
+      "lng": -87,
+      "lat": 169,
+      "size": 30
+    },
+    {
+      "title": "Glorbuk",
+      "lng": -81,
+      "lat": 70,
+      "size": 50
+    },
+    {
+      "title": "Área dos Orcs",
+      "lng": -83,
+      "lat": 70,
+      "size": 30
+    },
+    {
+      "title": "Libertis",
+      "lng": -117,
+      "lat": 197,
+      "size": 70
+    },
+    {
+      "title": "Porto da Liberdade",
+      "lng": -119,
+      "lat": 197,
+      "size": 30
+    },
+    {
+      "title": "Amersham",
+      "lng": -153,
+      "lat": 180,
+      "size": 70
+    },
+    {
+      "title": "Cidade Portuária",
+      "lng": -155,
+      "lat": 180,
+      "size": 30
+    },
+    {
+      "title": "Atol da Roca",
+      "lng": -174,
+      "lat": 44,
+      "size": 70
+    },
+    {
+      "title": "Eternova",
+      "lng": -155,
+      "lat": 223,
+      "size": 70
+    },
+    {
+      "title": "Capital de Ancemont",
+      "lng": -157,
+      "lat": 223,
+      "size": 30
+    },
+    {
+      "title": "Zaram",
+      "lng": -136,
+      "lat": 235,
+      "size": 50
+    },
+    {
+      "title": "Província de Ancemont",
+      "lng": -138,
+      "lat": 235,
+      "size": 30
+    },
+    {
+      "title": "Ephitagora",
+      "lng": -96,
+      "lat": 215,
+      "size": 70
+    },
+    {
+      "title": "Distrito Administrativo",
+      "lng": -98,
+      "lat": 215,
+      "size": 30
+    }
+  ],
+  "locations": [
+    {
+      "category": "[Ponto de Coleta] Orgânico",
+      "markerColor": "orange",
+      "lat": -54.6,
+      "lng": 194.1,
+      "icon": "carrot",
+      "isVisible": true,
+      "text": "Ponto de Coleta",
+      "description": "Ponto de coleta em ambiente hostil.",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Orgânico",
+      "markerColor": "orange",
+      "lat": -56.8,
+      "lng": 206.2,
+      "icon": "carrot",
+      "isVisible": true,
+      "text": "Ponto de Coleta",
+      "description": "Ponto de coleta em ambiente hostil.",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Orgânico",
+      "markerColor": "orange",
+      "lat": -46.2,
+      "lng": 204.0,
+      "icon": "carrot",
+      "isVisible": true,
+      "text": "Ponto de Coleta",
+      "description": "Ponto de coleta em ambiente hostil.",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Orgânico",
+      "markerColor": "orange",
+      "lat": -45.3,
+      "lng": 165.7,
+      "icon": "carrot",
+      "isVisible": true,
+      "text": "Ponto de Coleta",
+      "description": "Ponto de coleta em ambiente hostil.",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Orgânico",
+      "markerColor": "orange",
+      "lat": -58.0,
+      "lng": 168.4,
+      "icon": "carrot",
+      "isVisible": true,
+      "text": "Ponto de Coleta",
+      "description": "Ponto de coleta em ambiente hostil.",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -53.2,
+      "lng": 158.0,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -44.8,
+      "lng": 159.0,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -44.3,
+      "lng": 208.9,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -55.4,
+      "lng": 210.1,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -61.4,
+      "lng": 186.9,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Ponto de Coleta] Peixe",
+      "markerColor": "lightblue",
+      "lat": -41.8,
+      "lng": 185.6,
+      "icon": "fish",
+      "isVisible": true,
+      "text": "Ponto de Pesca",
+      "description": "Ponto de Pesca",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -159.1,
+      "lng": 22.2,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -148.7,
+      "lng": 21.2,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -135.6,
+      "lng": 11.0,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -136.1,
+      "lng": 33.1,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -135.8,
+      "lng": 45.8,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -143.9,
+      "lng": 125.3,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -81.0,
+      "lng": 38.9,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -76.3,
+      "lng": 32.9,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -64.3,
+      "lng": 162.7,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -74.9,
+      "lng": 197.5,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -39.1,
+      "lng": 171.8,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -90.3,
+      "lng": 189.6,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -114.6,
+      "lng": 190.1,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -153.6,
+      "lng": 171.9,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto de Amersham",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -153.0,
+      "lng": 163.5,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -179.1,
+      "lng": 172.4,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -182.5,
+      "lng": 171.0,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -220.3,
+      "lng": 113.3,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -173.7,
+      "lng": 112.1,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "[Viagem] Porto",
+      "markerColor": "darkblue",
+      "lat": -161.9,
+      "lng": 136.9,
+      "icon": "anchor",
+      "isVisible": true,
+      "text": "Porto",
+      "description": "Porto de navios",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -164.6,
+      "lng": 56.4,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Antiga Cidade do Atol",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -167.4,
+      "lng": 64.4,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Ossos de Dragão",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -183.1,
+      "lng": 48.1,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Navio Destruído no Atol",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -159.3,
+      "lng": 11.6,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Castelo em Ruínas",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -132.6,
+      "lng": 33.4,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Castelo em Ruínas",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -108.2,
+      "lng": 11.1,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Navio Abandonado",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -113.3,
+      "lng": 62.8,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Resquícios de Vallengrand",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -121.2,
+      "lng": 77.9,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Resquícios de Vallengrand",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -134.0,
+      "lng": 70.9,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Resquícios de Vallengrand",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -144.4,
+      "lng": 84.6,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Resquícios de Vallengrand",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -126.2,
+      "lng": 97.5,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Resquícios de Vallengrand",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -47.9,
+      "lng": 112.8,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Reino pequeno de Inpolis",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -45.8,
+      "lng": 125.8,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Reino grande de Inpolis",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -216.0,
+      "lng": 206.9,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Igreja de Mortásia",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -212.7,
+      "lng": 188.5,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Torre de Mortásia",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -205.0,
+      "lng": 181.5,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Cidade de Mortásia",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -206.9,
+      "lng": 173.6,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Forte de Mortásia",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -102.3,
+      "lng": 146.5,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Antigo Templo de Ashlah",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -96.8,
+      "lng": 109.6,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Antigo Templo de Ashlah",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -83.8,
+      "lng": 137.0,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Antiga Cidade de Ashlah",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Ruínas e Destroços",
+      "markerColor": "red",
+      "lat": -79.5,
+      "lng": 140.4,
+      "icon": "gem",
+      "isVisible": true,
+      "text": "Antiga Cidade de Ashlah",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -163.6,
+      "lng": 52.0,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -169.5,
+      "lng": 55.6,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -166.8,
+      "lng": 63.6,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -174.8,
+      "lng": 65.2,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -175.4,
+      "lng": 56.8,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -176.7,
+      "lng": 39.1,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -181.1,
+      "lng": 34.1,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -186.8,
+      "lng": 66.4,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Atol)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -153.8,
+      "lng": 99.4,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Perto de Oyhork)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -150.4,
+      "lng": 101.3,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Perto de Oyhork)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -151.8,
+      "lng": 106.2,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Perto de Oyhork)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -205.6,
+      "lng": 172.4,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Mortásia)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -207.3,
+      "lng": 163.4,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Ardoria Sul)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "Tesouros",
+      "markerColor": "pink",
+      "lat": -135.1,
+      "lng": 166.1,
+      "icon": "gift",
+      "isVisible": false,
+      "text": "Baú do Tesouro (Ashlah Sul)",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -133.6,
+      "lng": 239.4,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -164.1,
+      "lng": 204.5,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -97.3,
+      "lng": 64.2,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -106.2,
+      "lng": 52.8,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -118.1,
+      "lng": 29.0,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -126.8,
+      "lng": 27.5,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -138.9,
+      "lng": 20.2,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -149.8,
+      "lng": 19.0,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -176.7,
+      "lng": 108.3,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -171.7,
+      "lng": 118.8,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Fazendas",
+      "markerColor": "beige",
+      "lat": -165.2,
+      "lng": 129.6,
+      "icon": "wheat-awn",
+      "isVisible": true,
+      "text": "Fazenda",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Localização] Especial",
+      "markerColor": "purple",
+      "lat": -107.0,
+      "lng": 90.6,
+      "icon": "meteor",
+      "isVisible": true,
+      "text": "Cratera de Meteoro",
+      "description": "Descrição",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -127.5,
+      "lng": 212.8,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Ancemont",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -195.6,
+      "lng": 208.6,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Aidanmine",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -193.0,
+      "lng": 135.8,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Ardoria",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -128.8,
+      "lng": 69.5,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Vallengrand",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -95.8,
+      "lng": 123.4,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Ashlah",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -66.6,
+      "lng": 22.8,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Mashari",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    },
+    {
+      "category": "[Info] Continentes",
+      "markerColor": "purple",
+      "lat": -48.9,
+      "lng": 185.5,
+      "icon": "info",
+      "isVisible": true,
+      "text": "Nôrdûr",
+      "description": "Descrição do Continente",
+      "master_description": ""
+    }
+  ]
+}
