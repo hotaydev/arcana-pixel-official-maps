@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/hotaydev/arcana-pixel/main/shared/schemas/compiled/map_definitions.json",
   "config": {
     "minZoom": 3,
     "minNativeZoom": 3,
@@ -20,7 +21,8 @@
       "lng": 132
     }
   },
-  "location_titles": [
+  "preview": "https://raw.githubusercontent.com/hotaydev/arcana-pixel-official-maps/refs/heads/main/maps/dnd-map-1/preview.jpg",
+  "titles": [
     {
       "title": "Nôrdûr",
       "lng": -50,

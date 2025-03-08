@@ -1,7 +1,13 @@
-[
-  {
-    "path": "dnd-map-1",
-    "name": "D&D | Mapa 1",
-    "version": "0.1.0"
-  }
-]
+{
+  "$schema": "https://raw.githubusercontent.com/hotaydev/arcana-pixel/main/shared/schemas/compiled/maps_index.json",
+  "maps": [
+    {
+      "path": "/maps/dnd-map-1",
+      "name": "D&D | Map 1",
+      "version": "0.1.0",
+      "games": [
+        "dnd"
+      ]
+    }
+  ]
+}
