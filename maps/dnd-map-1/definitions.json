@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/hotaydev/arcana-pixel/main/packages/schemas/compiled/map_definitions.json",
   "config": {
+    "tilesUrl": "https://rpg-map.vercel.app/map/{z}/{x}/{y}.png",
     "minZoom": 3,
     "minNativeZoom": 3,
     "maxZoom": 6,
