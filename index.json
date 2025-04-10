@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/hotaydev/arcana-pixel/main/shared/schemas/compiled/maps_index.json",
+  "$schema": "https://raw.githubusercontent.com/hotaydev/arcana-pixel/main/packages/schemas/compiled/maps_index.json",
   "maps": [
     {
       "path": "/maps/dnd-map-1",
